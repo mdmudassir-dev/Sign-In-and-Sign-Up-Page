@@ -1,0 +1,21 @@
+.produc{
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 395px;
+    width: 290px;
+    background-color: aqua;
+    margin: 10px;
+   
+    
+}
+
+
+.big{
+    justify-content: center;
+    align-items: center;
+    
+}
+.image{
+   height: 223px;
+    width: 200px;
+}
